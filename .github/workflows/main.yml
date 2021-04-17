@@ -14,4 +14,3 @@ jobs:
         server: ftp.rdbajra.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /home/rdbauuiv/sunya.me/youtube/
