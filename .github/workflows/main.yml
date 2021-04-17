@@ -12,5 +12,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
         server: ftp.rdbajra.com
-        username: ${{ secrets.ftp_username }}
+        username: youtube@sunya.me
         password: ${{ secrets.ftp_password }}
