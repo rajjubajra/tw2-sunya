@@ -14,3 +14,5 @@ jobs:
         server: ftp.rdbajra.com
         username: youtube@sunya.me
         password: ${{ secrets.ftp_password }}
+        protocol: ftps
+        port: 21
